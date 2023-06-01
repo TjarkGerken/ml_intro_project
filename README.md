@@ -9,12 +9,13 @@ Das Projekt besteht aus folgenden Komponenten:
 * Testdaten
 * Modelldatei
 * README.md
-* requirements.txt
-* File Output
+* requirements.txt 
+* Output Directory
 
 ## Installation
 
-Das Projekt läuft mit Python 3.9. Es wird empfohlen, ein virtuelles Environment zu verwenden. Die benötigten Pakete können mit folgendem Befehl installiert werden:
+Das Projekt läuft mit Python 3.9. Es wird empfohlen, ein virtuelles Environment zu verwenden. Die Erstellung des virtuellen Environment mit Conda und die Installation der benötigten Pakete lässt sich über die folgenden Befehle bewerkstelligen.
+
 ```bash
   conda create -n  ml_intro_project python=3.9
 ```
